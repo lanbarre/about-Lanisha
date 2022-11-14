@@ -1,5 +1,5 @@
-# about-Lanisha
-Get to know Lanisha
+# about
+Get to know Olive
 # Hi, my name is Lanisha :smiley:
 
 I am a professionally skilled writer with a passion for technical writing and documentation.
