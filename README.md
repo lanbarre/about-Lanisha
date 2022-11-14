@@ -1,6 +1,6 @@
 # about
 Get to know Olive
-# Hi, my name is Lanisha :smiley:
+# Hi, my name is Olive :smiley:
 
 I am a professionally skilled writer with a passion for technical writing and documentation.
 
